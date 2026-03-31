@@ -4,7 +4,7 @@
 # Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Aryawart Gupta"
+STUDENT_NAME="Aditya Raj"
 SOFTWARE_CHOICE="Git"
 
 # --- System Info ---
